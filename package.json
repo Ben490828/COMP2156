@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://pritamworld.github.io/w2026_comp2156",
+  "homepage": "https://BenjaminPenafiel.github.io/comp2156",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pritamworld/w2026_comp2156.git"
+    "url": "git+https://github.com/Ben490828/COMP2156"
   },
   "keywords": ["comp2156", "GitHub Action"],
-  "author": "Dr. Pritesh Patel",
+  "author": "Benjamin Penafiel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pritamworld/w2026_comp2156/issues"
+    "url": "https://github.com/Ben490828/COMP2156/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
